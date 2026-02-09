@@ -25,11 +25,3 @@
 ### Visitante / Público
 - RF-VIS-01: Consultar catálogo da biblioteca sem precisar de login.
 - RF-VIS-02: Visualizar eventos e novidades da biblioteca.
-
-## Requisitos Não Funcionais
-
-- RNF-01 (Segurança): O sistema deve ser seguro e proteger os dados dos usuários.
-- RNF-02 (Disponibilidade): O sistema deve ter alta disponibilidade de acesso (>99%).
-- RNF-03 (Desempenho): O sistema deve responder a pesquisas em menos de 10 segundos.
-- RNF-04 (Usabilidade): O sistema deve ter interface amigável e intuitiva.
-- RNF-05 (Compatibilidade): O sistema deve ser compatível com dispositivos móveis.
