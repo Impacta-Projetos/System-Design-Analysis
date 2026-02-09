@@ -1,14 +1,14 @@
-# 🚀 GUIA RÁPIDO - Como Usar Este Repositório
+# GUIA RÁPIDO - Como Usar Este Repositório
 
-## 🎯 Comece Aqui!
+## Comece Aqui!
 
 Bem-vindo ao repositório **System Design Analysis**! Este é um guia para ajudá-lo a começar rapidamente.
 
 ---
 
-## 📚 3 Formas de Usar Este Projeto
+## 3 Formas de Usar Este Projeto
 
-### 🎓 OPÇÃO 1: Estudo Completo (Recomendado)
+### OPÇÃO 1: Estudo Completo (Recomendado)
 **Tempo:** ~2h20min | **Para:** Aprender tudo do zero
 
 1. Leia [README.md](README.md) para entender o projeto
@@ -22,7 +22,7 @@ Bem-vindo ao repositório **System Design Analysis**! Este é um guia para ajud�
 
 ---
 
-### ⚡ OPÇÃO 2: Estudo Rápido
+### OPÇÃO 2: Estudo Rápido
 **Tempo:** ~1h | **Para:** Visão rápida dos conceitos
 
 1. Leia [README.md](README.md)
@@ -32,27 +32,27 @@ Bem-vindo ao repositório **System Design Analysis**! Este é um guia para ajud�
 
 ---
 
-### 🎯 OPÇÃO 3: Consulta Rápida (Referência)
+### OPÇÃO 3: Consulta Rápida (Referência)
 **Tempo:** Conforme necessário | **Para:** Procurar tópicos específicos
 
 Use o índice em [docs/INDEX.md](docs/INDEX.md) para encontrar:
-- ✅ Definições
-- ✅ Exemplos
-- ✅ Checklists
-- ✅ Templates
+- Definições
+- Exemplos
+- Checklists
+- Templates
 
 ---
 
-## 🗺️ Mapa de Navegação
+## Mapa de Navegação
 
 ```
-🏠 INÍCIO
+INÍCIO
   │
   ├─→ README.md (Visão Geral)
   │
   └─→ docs/
       │
-      ├─ INDEX.md (Mapa Completo) ⭐
+      ├─ INDEX.md (Mapa Completo)
       │
       ├─ PARTE 1: Fundamentos
       ├─ PARTE 2: Conceitos
@@ -63,7 +63,7 @@ Use o índice em [docs/INDEX.md](docs/INDEX.md) para encontrar:
 
 ---
 
-## 💡 O Que Você Vai Aprender
+## O Que Você Vai Aprender
 
 ```
 ┌─────────────────────────────────────────┐
@@ -96,12 +96,12 @@ Use o índice em [docs/INDEX.md](docs/INDEX.md) para encontrar:
 │ • Checklist                             │
 └─────────────────────────────────────────┘
             ↓
-        ✅ PRONTO!
+        PRONTO!
 ```
 
 ---
 
-## 🎯 Por Onde Começar?
+## Por Onde Começar?
 
 ### Se você é **iniciante**:
 ➡️ Comece pelo [README.md](README.md), depois [PARTE 1](docs/PARTE1.md)
@@ -117,7 +117,7 @@ Use o índice em [docs/INDEX.md](docs/INDEX.md) para encontrar:
 
 ---
 
-## ⏱️ Planejamento de Estudo
+## Planejamento de Estudo
 
 ### Estudo em 1 Dia
 ```
@@ -138,7 +138,7 @@ Sex: PARTE 5 + Revisão (30 min)
 
 ---
 
-## 🔍 Dúvidas Frequentes
+## Dúvidas Frequentes
 
 **P: Por onde começo?**  
 R: Leia o [README.md](README.md) primeiro!
@@ -157,7 +157,7 @@ R: Não! Basta um navegador para ler Markdown.
 
 ---
 
-## 📱 Como Abrir os Arquivos
+## Como Abrir os Arquivos
 
 ### Opção 1: GitHub (Online)
 ```
@@ -182,7 +182,7 @@ R: Não! Basta um navegador para ler Markdown.
 
 ---
 
-## ✅ Checklist de Primeiro Uso
+## Checklist de Primeiro Uso
 
 - [ ] Li o [README.md](README.md)
 - [ ] Abri [docs/INDEX.md](docs/INDEX.md)
@@ -192,7 +192,7 @@ R: Não! Basta um navegador para ler Markdown.
 
 ---
 
-## 📊 O Que Cada Parte Contém
+## O Que Cada Parte Contém
 
 | Parte | Arquivo | Tempo | Tipo | Objetivo |
 |-------|---------|-------|------|----------|
@@ -204,7 +204,7 @@ R: Não! Basta um navegador para ler Markdown.
 
 ---
 
-## 🎓 Seus Próximos Passos
+## Seus Próximos Passos
 
 1. **Agora:** Clique em [PARTE 1](docs/PARTE1.md) ou [README.md](README.md)
 2. **Depois:** Siga sequencialmente
@@ -214,14 +214,14 @@ R: Não! Basta um navegador para ler Markdown.
 
 ---
 
-## 💬 Precisa de Ajuda?
+## Precisa de Ajuda?
 
 Para dúvidas sobre o conteúdo:
-- 📧 Prof. Junior Freitas de Amaral
+- Prof. Junior Freitas de Amaral
 
 ---
 
-## 🎉 Você Está Pronto!
+## Você Está Pronto!
 
 **Escolha sua forma de aprender e comece agora!**
 
@@ -229,12 +229,12 @@ Para dúvidas sobre o conteúdo:
 ┌─────────────────────────────────┐
 │  CLIQUE PARA COMEÇAR:           │
 │                                 │
-│  📄 README.md (Visão Geral)     │
+│  README.md (Visão Geral)        │
 │  ou                             │
-│  📚 docs/PARTE1.md (Conceitos)  │
+│  docs/PARTE1.md (Conceitos)     │
 └─────────────────────────────────┘
 ```
 
 ---
 
-**Last Updated:** 04/02/2026
+**Ultima atualização:** 09/02/2026

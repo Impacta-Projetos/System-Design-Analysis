@@ -1,6 +1,6 @@
 # PARTE 2 - Engenharia de Requisitos
 
-## 📖 Fundamentos da Engenharia de Requisitos
+## Fundamentos da Engenharia de Requisitos
 
 ### O que é Engenharia de Requisitos?
 
@@ -11,7 +11,7 @@ Engenharia de Requisitos é um conjunto de processos e técnicas para **identifi
 - **Analistas de Requisitos:** Responsáveis por elicitar e documentar os requisitos
 - **Equipes Técnicas:** Implementarão as soluções
 
-## 🎯 Diferenças Fundamentais
+## Diferenças Fundamentais
 
 ### Requisitos de Sistema
 
@@ -75,7 +75,7 @@ Engenharia de Requisitos é um conjunto de processos e técnicas para **identifi
 - "O sistema DEVE estar em conformidade com LGPD"
 - "O sistema DEVE integrar-se com o ERP existente"
 
-## 📋 Casos de Uso (Use Cases)
+## Casos de Uso (Use Cases)
 
 ### Definição
 
@@ -149,7 +149,7 @@ Pós-condição: [Estado após conclusão]
 └─────────────────────────────────────────────────────┘
 ```
 
-## ✅ Processo de Engenharia de Requisitos
+## Processo de Engenharia de Requisitos
 
 ### 1. Elicitação
 - Coleta de necessidades junto aos stakeholders
@@ -176,7 +176,7 @@ Pós-condição: [Estado após conclusão]
 - Manutenção da documentação
 - Comunicação de alterações
 
-## 🎯 Próxima Etapa
+## Próxima Etapa
 
 Na **PARTE 3**, aprenderemos sobre o **SRS (Software Requirements Specification)** e como estruturar e documentar todos esses requisitos de forma profissional e verificável.
 

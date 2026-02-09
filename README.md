@@ -1,12 +1,12 @@
 # System Design Analysis
 
-## 📋 Descrição do Projeto
+## Descrição do Projeto
 
 Este projeto é um repositório educacional sobre **Análise e Modelagem de Sistemas**. Aborda conceitos fundamentais da engenharia de requisitos, desenvolvimento de especificações de software (SRS), modelagem UML e boas práticas na documentação de sistemas.
 
 O projeto foi desenvolvido como parte de uma disciplina acadêmica com foco na aplicação prática de conceitos de análise de sistemas através de exercícios e modelagem de um **Sistema de Gerenciamento de Biblioteca**.
 
-## 🎯 Objetivos
+## Objetivos
 
 - Compreender a importância da modelagem de sistemas
 - Aprender técnicas de elicitação e documentação de requisitos
@@ -15,7 +15,7 @@ O projeto foi desenvolvido como parte de uma disciplina acadêmica com foco na a
 - Desenvolver habilidades de colaboração entre stakeholders e equipes técnicas
 - Usar ferramentas de modelagem (MIRO, Trello, Astah, draw.io)
 
-## 📚 Estrutura do Repositório
+## Estrutura do Repositório
 
 ```
 docs/
@@ -28,7 +28,7 @@ Modelagem.pdf        # Apresentação original do professor
 README.md            # Este arquivo
 ```
 
-## 🔑 Conceitos Principais
+## Conceitos Principais
 
 ### 1. **Modelagem de Software**
 - Reduz erros e ambiguidades no projeto
@@ -49,7 +49,7 @@ README.md            # Este arquivo
 ### 4. **SRS (Software Requirements Specification)**
 Documento que especifica de forma clara e estruturada os requisitos do sistema, servindo como contrato entre stakeholders e desenvolvedores.
 
-## 👥 Equipe do Projeto
+## Equipe do Projeto
 
 | Nome | Papel |
 |------|-------|
@@ -59,25 +59,25 @@ Documento que especifica de forma clara e estruturada os requisitos do sistema, 
 | **Iago** | Analista de Requisitos |
 | **Lucas** | Stakeholder |
 
-## 📅 Cronograma
+## Cronograma
 
 - **Data de Início:** 04/02/2026
 - **Disciplina:** Análise e Modelagem de Sistemas
 - **Professor:** Prof. Me. Junior Freitas de Amaral
 
-## 🛠️ Ferramentas Utilizadas
+## Ferramentas Utilizadas
 
 - **MIRO:** Colaboração e brainstorming
 - **Trello:** Gestão de tarefas
 - **Astah:** Modelagem UML
 - **draw.io:** Diagramas e fluxogramas
 
-## 📖 Referenciais Teóricos
+## Referenciais Teóricos
 
 - **GUEDES, G. T. A.** UML 2: uma abordagem prática. 1. ed. São Paulo: Novatec, 2009.
 - Autores clássicos em Engenharia de Software: Sommerville, Pressman, Fairley
 
-## 🎓 Aprendizados Principais
+## Aprendizados Principais
 
 1. **Análise de Requisitos:** Como elicitar e documentar necessidades dos stakeholders
 2. **Especificação de Software:** Criação de SRS estruturado e verificável
@@ -85,27 +85,27 @@ Documento que especifica de forma clara e estruturada os requisitos do sistema, 
 4. **Validação de Requisitos:** Checklist e critérios para qualidade
 5. **Engenharia de Sistemas:** Fluxo de artefatos e processamento de requisitos
 
-## ✅ Como Usar Este Repositório
+## Como Usar Este Repositório
 
 1. Comece pela **PARTE1.md** para entender os fundamentos
 2. Prossiga sequencialmente para compreender o fluxo completo
 3. Consulte a **PARTE4.md** para ver o exercício prático em ação
 4. Revise a **PARTE5.md** para validação e checklist
 
-## 📝 Combinados da Disciplina
+## Combinados da Disciplina
 
-- ✅ Chamada sempre ao final de cada aula (não negociável)
-- ✅ Participação ativa nas aulas e atividades
-- ✅ Compromisso com responsabilidade e pontualidade
-- ✅ Qualidade nas entregas
-- ✅ Protagonismo no aprendizado
-- ✅ Cuidado com plágio e integridade acadêmica
+- Chamada sempre ao final de cada aula (não negociável)
+- Participação ativa nas aulas e atividades
+- Compromisso com responsabilidade e pontualidade
+- Qualidade nas entregas
+- Protagonismo no aprendizado
+- Cuidado com plágio e integridade acadêmica
 
-## 📞 Contato
+## Contato
 
 Para dúvidas ou sugestões sobre o conteúdo:
 
 **Prof. Me. Junior Freitas de Amaral**  
 ---
 
-**Última atualização:** 04/02/2026
+**Última atualização:** 09/02/2026

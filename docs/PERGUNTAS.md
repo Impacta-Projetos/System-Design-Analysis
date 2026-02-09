@@ -1,32 +1,25 @@
-🛠️ Administrador
+# Perguntas Frequentes
 
-(políticas gerais do sistema)
+## Administrador
+**Políticas gerais do sistema**
 
-A multa tem um valor único ou ela depende do livro?
+- A multa tem um valor único ou ela depende do livro?
+- O valor da multa é fixo ou progressivo?
+- Pode ser feito um novo empréstimo se tiver multa pendente?
 
-O valor da multa é fixo ou progressivo?
+## Bibliotecário
+**Gestão do acervo**
 
-Pode ser feito um novo empréstimo se tiver multa pendente?
+- Quais informações são necessárias para o livro?
 
-📚 Bibliotecário
+## Estudante
+**Regras de empréstimo para alunos**
 
-(gestão do acervo)
+- Quanto tempo um aluno pode pegar um livro emprestado?
+- Qual a quantidade de livros que podem ser pegos por vez?
 
-Quais informações são necessárias para o livro?
+## Professor
+**Regras de empréstimo para professores**
 
-🎓 Estudante
-
-(regras de empréstimo para alunos)
-
-Quanto tempo um aluno pode pegar um livro emprestado?
-
-Qual a quantidade de livros que podem ser pegos por vez?
-
-
-👨‍🏫 Professor
-
-(regras de empréstimo para professores)
-
-Quanto tempo um professor pode pegar um livro emprestado?
-
-Quantas vezes se pode renovar um empréstimo?
+- Quanto tempo um professor pode pegar um livro emprestado?
+- Quantas vezes se pode renovar um empréstimo?

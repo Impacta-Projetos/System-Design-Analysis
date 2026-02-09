@@ -1,20 +1,20 @@
 # PARTE 4 - Exercício Prático: Sistema de Gerenciamento de Biblioteca
 
-## 📚 Dinâmica em Sala de Aula
+## Dinâmica em Sala de Aula
 
 ### Objetivo Geral
 
 Construir um SRS completo para um **Sistema de Gerenciamento de Biblioteca** através de colaboração entre stakeholders e analistas, simulando um projeto real.
 
-## 🎯 Objetivos Específicos
+## Objetivos Específicos
 
-1. ✅ Praticar a análise e documentação de requisitos de software
-2. ✅ Simular colaboração entre stakeholders e equipe de desenvolvimento
-3. ✅ Construir um SRS estruturado
-4. ✅ Exercitar técnicas de elicitação de requisitos
-5. ✅ Desenvolver habilidades de comunicação técnica
+1. Praticar a análise e documentação de requisitos de software
+2. Simular colaboração entre stakeholders e equipe de desenvolvimento
+3. Construir um SRS estruturado
+4. Exercitar técnicas de elicitação de requisitos
+5. Desenvolver habilidades de comunicação técnica
 
-## 👥 Estrutura de Grupos
+## Estrutura de Grupos
 
 ### Composição
 - **5 a 6 pessoas por grupo**
@@ -63,7 +63,7 @@ Construir um SRS completo para um **Sistema de Gerenciamento de Biblioteca** atr
   - Priorizar
   - Documentar no template
 
-## ⏰ Cronograma da Dinâmica (~60 minutos)
+## Cronograma da Dinâmica (~60 minutos)
 
 ### **Parte 1: Preparação** (~5 minutos)
 - Divisão em grupos
@@ -129,24 +129,24 @@ Para o Professor:
 Organize os requisitos em:
 
 **Requisitos Funcionais (O QUE):**
-- ✅ "O sistema DEVE permitir cadastro de livros"
-- ✅ "O sistema DEVE permitir busca por autor"
-- ✅ "O sistema DEVE registrar empréstimos"
-- ✅ "O sistema DEVE calcular multas"
-- ✅ "O sistema DEVE renovar empréstimos online"
+- "O sistema DEVE permitir cadastro de livros"
+- "O sistema DEVE permitir busca por autor"
+- "O sistema DEVE registrar empréstimos"
+- "O sistema DEVE calcular multas"
+- "O sistema DEVE renovar empréstimos online"
 
 **Requisitos Não-Funcionais (COMO):**
-- ⚡ "O sistema DEVE processar buscas em menos de 2 segundos"
-- 🔒 "O sistema DEVE criptografar dados de login"
-- 👤 "A interface DEVE ser simples e intuitiva"
-- 📱 "O sistema DEVE funcionar em navegador web"
-- ☁️ "O sistema DEVE estar disponível 24/7"
+- "O sistema DEVE processar buscas em menos de 2 segundos"
+- "O sistema DEVE criptografar dados de login"
+- "A interface DEVE ser simples e intuitiva"
+- "O sistema DEVE funcionar em navegador web"
+- "O sistema DEVE estar disponível 24/7"
 
 **Restrições:**
-- 🏗️ "Deve ser desenvolvido em Java"
-- 💰 "Orçamento máximo: R$ 50.000"
-- 📋 "Deve estar pronto em 6 meses"
-- 🔐 "Deve estar em conformidade com LGPD"
+- "Deve ser desenvolvido em Java"
+- "Orçamento máximo: R$ 50.000"
+- "Deve estar pronto em 6 meses"
+- "Deve estar em conformidade com LGPD"
 
 #### Passo 2: Priorizar (5 min)
 
@@ -154,9 +154,9 @@ Use escala simples:
 
 | Nível | Descrição | Exemplos |
 |-------|-----------|----------|
-| **🔴 ALTA** | Crítico para operação | Cadastro, empréstimo, devolução |
-| **🟡 MÉDIA** | Importante mas não crítico | Renovação, relatórios |
-| **🟢 BAIXA** | Nice-to-have | Notificações, recomendações |
+| **ALTA** | Crítico para operação | Cadastro, empréstimo, devolução |
+| **MÉDIA** | Importante mas não crítico | Renovação, relatórios |
+| **BAIXA** | Nice-to-have | Notificações, recomendações |
 
 **Matriz de Priorização:**
 
@@ -164,14 +164,14 @@ Use escala simples:
 ┌─────────────────────────────────────┬──────────┐
 │ Requisito                           │ Prioridade│
 ├─────────────────────────────────────┼──────────┤
-│ Cadastro de livros                  │ 🔴 ALTA  │
-│ Empréstimo                          │ 🔴 ALTA  │
-│ Devolução                           │ 🔴 ALTA  │
-│ Búsqueda de livros                  │ 🔴 ALTA  │
-│ Cálculo de multas                   │ 🟡 MÉDIA │
-│ Renovação online                    │ 🟡 MÉDIA │
-│ Relatórios estatísticos             │ 🟢 BAIXA │
-│ Notificações automáticas            │ 🟢 BAIXA │
+│ Cadastro de livros                  │ ALTA     │
+│ Empréstimo                          │ ALTA     │
+│ Devolução                           │ ALTA     │
+│ Búsqueda de livros                  │ ALTA     │
+│ Cálculo de multas                   │ MÉDIA    │
+│ Renovação online                    │ MÉDIA    │
+│ Relatórios estatísticos             │ BAIXA    │
+│ Notificações automáticas            │ BAIXA    │
 └─────────────────────────────────────┴──────────┘
 ```
 
@@ -263,21 +263,21 @@ Cada grupo apresenta:
 - "A priorização faz sentido?"
 - "Faltou pensar em algo?"
 
-## 📊 Exemplo de Resultado Final
+## Exemplo de Resultado Final
 
 ### Requisitos Coletados - Grupo A
 
 **Funcionalidades Críticas:**
-- ✅ Cadastro de livros (código, título, autor, ISBN, categoria, quantidade)
-- ✅ Empréstimo com prazo máximo de 14 dias
-- ✅ Devolução e cálculo automático de multa (R$ 2/dia)
-- ✅ Busca avançada (por autor, título, categoria)
-- ✅ Renovação online (máximo 2x, se sem multa)
+- Cadastro de livros (código, título, autor, ISBN, categoria, quantidade)
+- Empréstimo com prazo máximo de 14 dias
+- Devolução e cálculo automático de multa (R$ 2/dia)
+- Busca avançada (por autor, título, categoria)
+- Renovação online (máximo 2x, se sem multa)
 
 **Não-Funcionais:**
-- ⏱️ Performance: Resposta em < 2 segundos
-- 🔒 Segurança: Senha criptografada, LGPD
-- 💾 Dados: Backup diário automatizado
+- Performance: Resposta em < 2 segundos
+- Segurança: Senha criptografada, LGPD
+- Dados: Backup diário automatizado
 - 📱 Interface: Web-based, responsiva
 
 ## 🎓 Aprendizados Esperados

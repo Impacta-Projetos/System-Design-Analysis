@@ -1,12 +1,12 @@
 # PARTE 3 - SRS e Artefatos de Software
 
-## 📄 O Artefato SRS
+## O Artefato SRS
 
 ### Software Requirements Specification (SRS)
 
 **Definição:** Documento que especifica de forma clara, detalhada e estruturada os requisitos do sistema, servindo como um **contrato entre os stakeholders** (clientes, usuários, desenvolvedores, etc.) e a equipe de desenvolvimento.
 
-## 🎯 Propósito do SRS
+## Propósito do SRS
 
 O SRS deve:
 
@@ -45,7 +45,7 @@ O SRS deve:
 - Possível vincular a documentos de origem
 - Manutenção de histórico
 
-## 📊 Fluxo de Artefatos em Engenharia de Software
+## Fluxo de Artefatos em Engenharia de Software
 
 ```
 ┌──────────────────────────────────────────────────┐
@@ -83,7 +83,7 @@ O SRS deve:
     └──────────────────────────────┘
 ```
 
-## 📋 Estrutura de um SRS
+## Estrutura de um SRS
 
 ### Seção 1: Introdução
 - Propósito do documento
@@ -106,7 +106,7 @@ O SRS deve:
 - Prototipagem
 - Referências
 
-## 📝 Exemplo: Sistema de Gerenciamento de Biblioteca
+## Exemplo: Sistema de Gerenciamento de Biblioteca
 
 ### Estrutura de Requisitos Funcionais
 
@@ -135,7 +135,7 @@ SSS04 - Relatórios
 └── R03 - O sistema DEVE gerar relatório de acervo
 ```
 
-## 🔐 Requisitos Não-Funcionais do Sistema
+## Requisitos Não-Funcionais do Sistema
 
 ### Desempenho
 - O sistema DEVE processar cadastro de livro em menos de 2 segundos
@@ -161,7 +161,7 @@ SSS04 - Relatórios
 - O sistema DEVE estar documentado completamente
 - O sistema DEVE suportar atualizações com mínimo downtime
 
-## 🔗 Rastreabilidade de Requisitos
+## Rastreabilidade de Requisitos
 
 ### Matriz de Rastreabilidade
 
@@ -178,7 +178,7 @@ SSS04 - Relatórios
 └──────────────────┴──────────┴──────────────┴────────────┘
 ```
 
-## ✅ Checklist para um SRS de Qualidade
+## Checklist para um SRS de Qualidade
 
 - [ ] Todos os requisitos são claros e compreensíveis?
 - [ ] Cada requisito é verificável e testável?
@@ -189,7 +189,7 @@ SSS04 - Relatórios
 - [ ] As restrições são realistas e alcançáveis?
 - [ ] Os stakeholders aprovaram o documento?
 
-## 🚀 Próxima Etapa
+## Próxima Etapa
 
 Na **PARTE 4**, aplicaremos todos esses conceitos em um **exercício prático** onde desenvolveremos um SRS completo para um **Sistema de Gerenciamento de Biblioteca**.
 

@@ -1,12 +1,12 @@
 # PARTE 1 - Introdução e Necessidade de Modelagem
 
-## 📚 Apresentação da Disciplina
+## Apresentação da Disciplina
 
 ### Análise e Modelagem de Sistemas
 
 A disciplina de **Análise e Modelagem de Sistemas** é fundamental para a formação de profissionais de tecnologia que desejam compreender como transformar requisitos de negócio em soluções de software robustas e escaláveis.
 
-## 🎯 Por que Modelagem?
+## Por que Modelagem?
 
 ### A Necessidade de Modelagem
 
@@ -24,7 +24,7 @@ A modelagem de sistemas é essencial porque:
    - Uso de metodologias consolidadas
    - Integração com ferramentas profissionais
 
-## 💡 Modelos de Software
+## Modelos de Software
 
 ### O que é um Modelo?
 
@@ -52,7 +52,7 @@ Requisitos ───────────────────────
         Facilitam decisões de design
 ```
 
-## ✨ Benefícios da Modelagem
+## Benefícios da Modelagem
 
 ### 1. Clareza
 - **Tradução de requisitos em representações visuais claras**
@@ -74,7 +74,7 @@ Requisitos ───────────────────────
 - Suporta mudanças futuras
 - Documenta o sistema para manutenção
 
-## 🔄 Motivadores da Modelagem
+## Motivadores da Modelagem
 
 Diversos fatores impulsionam a necessidade de modelagem:
 
@@ -101,16 +101,16 @@ Diversos fatores impulsionam a necessidade de modelagem:
   - Conformidade regulatória
   - Adaptação a novas normativas
 
-## 📊 Modelar é também Documentar!
+## Modelar é também Documentar!
 
 Um aspecto fundamental é que **a modelagem serve como documentação** do sistema:
 
-- ✅ Representações visuais facilitam compreensão
-- ✅ Diagrama UML comunica idéias rapidamente
-- ✅ Documentação gráfica perdura
-- ✅ Reduz dependência de documentação textual
+- Representações visuais facilitam compreensão
+- Diagrama UML comunica idéias rapidamente
+- Documentação gráfica perdura
+- Reduz dependência de documentação textual
 
-## 🎓 Modelos de Software para Tomada de Decisões
+## Modelos de Software para Tomada de Decisões
 
 Os modelos não são apenas artefatos de documentação, mas **ferramentas para tomada de decisões**:
 
@@ -119,7 +119,7 @@ Os modelos não são apenas artefatos de documentação, mas **ferramentas para 
 - Validar soluções antes da implementação
 - Comunicar riscos e oportunidades
 
-## 🚀 Próximas Etapas
+## Próximas Etapas
 
 Agora que compreendemos a importância e necessidade da modelagem, passaremos para:
 
@@ -128,7 +128,7 @@ Agora que compreendemos a importância e necessidade da modelagem, passaremos pa
 3. **PARTE 4:** Exercício Prático - Sistema de Biblioteca
 4. **PARTE 5:** Validação e Checklist de Requisitos
 
-## 👥 Equipe do Projeto
+## Equipe do Projeto
 
 | Nome | Papel |
 |------|-------|
